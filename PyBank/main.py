@@ -63,10 +63,4 @@ result.close()
 result = open("results.txt","r")
 
 print(result.read())
-#print("Financial Analysis")
-#print("------------------------------------")
-#print(f"Total Months: {months}")
-#print(f"Total: ${total_pl}")
-#print(f"Average Change: ${round(average_pl,2)}")
-#print(f"Greatest Increase in Profits: {dates[date_inc]} (${greatest_inc})")
-#print(f"Greatest Decrease in Profits: {dates[date_dec]} (${greatest_dec})")
+
